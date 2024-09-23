@@ -4,7 +4,7 @@ about: Aquí puedes solicitar un conjunto de fotos de un vuelo de drone para pro
   y generar la respectiva ortofoto
 title: ''
 labels: ''
-assignees: angoca, SaraB2519, TheLudway
+assignees: angoca, SaraB2519, TheLudway, Juanca3789
 
 ---
 
