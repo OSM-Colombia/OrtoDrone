@@ -28,7 +28,7 @@ https://docs.google.com/forms/u/0/d/e/1FAIpQLSdcAh2LLcSYrt3dGN4J0i_sqTKQzKhOPFr-
 
 # Instalación
 
-El software que necesitas instalar es [OpenDroneMap - WebODM](https://github.com/OpenDroneMap/WebODM/). Los pasos de instalación en la página supone que tienes un Linux.
+El software que necesitas instalar es [OpenDroneMap - WebODM](https://github.com/OpenDroneMap/WebODM/). Los pasos de instalación en la página suponeN que tienes un Linux.
 
 Si no tienes un computador con Linux, puedes instalar una [máquina virtual VirtualBox](https://www.virtualbox.org/) y una vez creada puedes instalar alguna distribución de Linux, como puede ser [Ubuntu](https://ubuntu.com/download/desktop).
 
