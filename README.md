@@ -9,6 +9,7 @@ Para poder participar necesitas:
 * Solicitar conjuntos de fotos a procesar.
 * Tener una cuenta de OpenStreetMap - para realizar tus aporte al mapa.
 * Una cuenta en GitHub para crear los tiquetes.
+* Tener cuenta en OpenAerialMap.
 
 Las ortofotos son de diferentes lugares de Colombia, y necesitamos de tu ayuda para realizar el procesamiento.
 
