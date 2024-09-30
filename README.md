@@ -21,7 +21,7 @@ La documentación está completamente descrita en el [Wiki de este proyecto](htt
 
 Llena el siguiente formulario:
 
-https://docs.google.com/forms/u/0/d/e/1FAIpQLSdcAh2LLcSYrt3dGN4J0i_sqTKQzKhOPFr-35fF-sqUjweBTA/formResponse
+https://d.osm.lat/OrtoDrone-insc
 
 
 ## Proceso
