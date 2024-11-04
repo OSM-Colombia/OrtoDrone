@@ -26,7 +26,7 @@ https://d.osm.lat/OrtoDrone-insc
 
 ## Proceso
 
-Después de haberte registrado, este es el proceso que seguimos:
+Después de haberte registrado, este es el proceso que debes realizar junto con nosotros:
 
 1. Inicias solicitando un conjunto de fotos a procesar en OpenDroneMap. Esto se hace por medio de este proyecto de GitHub, en la sección [Issues](https://github.com/OSM-Colombia/OrtoDrone/issues/new/choose), creando un nuevo tiquete "Solicitud de procesamiento de fotos".
 2. Una vez creado, analizamos tu perfil (si estás inscrito al proyecto, tus contribuciones en OpenStreetMap y tus procesamientos de fotos realizados), y dependiendo de esto te asignamos un conjunto de fotos con ciertas características.
