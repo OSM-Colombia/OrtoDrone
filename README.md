@@ -31,9 +31,9 @@ Después de haberte registrado, este es el proceso que debes realizar junto con 
 1. Inicias solicitando un conjunto de fotos a procesar en OpenDroneMap. Esto se hace por medio de este proyecto de GitHub, en la sección [Issues](https://github.com/OSM-Colombia/OrtoDrone/issues/new/choose), creando un nuevo tiquete "Solicitud de procesamiento de fotos".
 2. Una vez creado el tiquete, analizamos tu perfil (si estás inscrito al proyecto, tus contribuciones en OpenStreetMap y tus procesamientos de fotos realizados), y dependiendo de esto te asignamos un conjunto de fotos con ciertas características.
 3. Te damos un tiempo para procesarlas. Si no logras procesarlas en ese tiempo, podemos estar asignando el trabajo a otra persona. Por eso es importante que nos comuniques tu avance y percanses que tengas. Inclusive, te podemos dar soporte en esto.
-4. Cuando hayas terminado, y hayas redactado el reporte de procesamiento, escribes en el tiquete que todo está listo.
+4. Cuando hayas terminado, y hayas redactado el [reporte de procesamiento de fotos](https://docs.google.com/document/d/1xxkJLvJKiNXagvdwu3m-FSpO0ZFzk2Cphx-6zut0TVE/edit?usp=sharing), escribes en el tiquete que todo está listo.
 5. Te damos unos horarios para que nos muestres la ortofoto, por medio de una charla virtual en [OSM video](https://osmvideo.cloud68.co/). En esta charla la validamos. Si hay algunos problemas, te los hacemos saber y te damos un tiempo para corregirlos. Si no hay problemas, te aprobamos el procesamiento para que se te reconozca el trabajo.
-6. Genera una cuenta de cobro por mes y la envías a ortodrone@osm.lat.
+6. Genera una [cuenta de cobro por mes](https://docs.google.com/document/d/1sa-GDao5_HeUJoAbZyvwCMaMhVFYj6ezgONcBRMSwVg/edit?usp=sharing) y la envías a ortodrone@osm.lat.
 
 Revisa el [wiki de este proyecto](https://github.com/OSM-Colombia/OrtoDrone/wiki), donde la documentación se mantiene actualiza.
 
