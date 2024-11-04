@@ -33,6 +33,7 @@ Después de haberte registrado, este es el proceso que debes realizar junto con 
 3. Te damos un tiempo para procesarlas. Si no logras procesarlas en ese tiempo, podemos estar asignando el trabajo a otra persona. Por eso es importante que nos comuniques tu avance y percanses que tengas. Inclusive, te podemos dar soporte en esto.
 4. Cuando hayas terminado, y hayas redactado el reporte de procesamiento, escribes en el tiquete que todo está listo.
 5. Te damos unos horarios para que nos muestres la ortofoto, por medio de una charla virtual en [OSM video](https://osmvideo.cloud68.co/). En esta charla la validamos. Si hay algunos problemas, te los hacemos saber y te damos un tiempo para corregirlos. Si no hay problemas, te aprobamos el procesamiento para que se te reconozca el trabajo.
+6. Genera una cuenta de cobro por mes y la envías a ortodrone@osm.lat.
 
 Revisa el [wiki de este proyecto](https://github.com/OSM-Colombia/OrtoDrone/wiki), donde la documentación se mantiene actualiza.
 
