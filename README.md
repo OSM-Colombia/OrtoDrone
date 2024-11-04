@@ -4,10 +4,10 @@ Este es un proyecto colaborativo donde cualquier persona de la comunidad puede p
 Para poder participar necesitas:
 
 * Haberte inscrito con el formulario que está más abajo.
-* Una cuenta en GitHub para crear los tiquetes.
+* Una cuenta en [GitHub](https://github.com) para crear los tiquetes.
 * Instalar [OpenDroneMap](https://github.com/OpenDroneMap/WebODM/) en tu computador para procesar las fotos.
-* Tener cuenta en OpenAerialMap (Con Gmail) para publicar la ortofoto resultante.
-* Contribuir en OpenStreetMap. Si has hecho varias contribuciones en el último año, tendrás mejor puntuación para procesar las fotos.
+* Tener cuenta en [OpenAerialMap](https://openaerialmap.org/) (Con Gmail) para publicar la ortofoto resultante.
+* Contribuir en [OpenStreetMap](https://osm.org/). Si has hecho varias contribuciones en el último año, tendrás mejor puntuación para procesar las fotos.
 
 Las ortofotos son de diferentes lugares de Colombia, y necesitamos de tu ayuda para realizar el procesamiento.
 
@@ -21,7 +21,7 @@ La documentación está completamente descrita en el [Wiki de este proyecto](htt
 
 Llena el siguiente formulario:
 
-https://d.osm.lat/OrtoDrone-insc
+[OrtoDrone-insc](https://d.osm.lat/OrtoDrone-insc)
 
 
 ## Proceso
@@ -33,6 +33,8 @@ Después de haberte registrado, este es el proceso que debes realizar junto con 
 3. Te damos un tiempo para procesarlas. Si no logras procesarlas en ese tiempo, podemos estar asignando el trabajo a otra persona. Por eso es importante que nos comuniques tu avance y percanses que tengas. Inclusive, te podemos dar soporte en esto.
 4. Cuando hayas terminado, y hayas redactado el reporte de procesamiento, escribes en el tiquete que todo está listo.
 5. Te damos unos horarios para que nos muestres la ortofoto, por medio de una charla virtual en [OSM video](https://osmvideo.cloud68.co/). En esta charla la validamos. Si hay algunos problemas, te los hacemos saber y te damos un tiempo para corregirlos. Si no hay problemas, te aprobamos el procesamiento para que se te reconozca el trabajo.
+
+Revisa el [wiki de este proyecto](https://github.com/OSM-Colombia/OrtoDrone/wiki), donde la documentación se mantiene actualiza.
 
 
 # Criterios de experiencia
