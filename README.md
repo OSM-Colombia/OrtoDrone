@@ -6,7 +6,7 @@ Para poder participar necesitas:
 * Haberte inscrito con el formulario que está más abajo.
 * Una cuenta en GitHub para crear los tiquetes.
 * Instalar [OpenDroneMap](https://github.com/OpenDroneMap/WebODM/) en tu computador para procesar las fotos.
-* Tener cuenta en OpenAerialMap para publicar los resultados.
+* Tener cuenta en OpenAerialMap (Con Gmail) para publicar la ortofoto resultante.
 * Contribuir en OpenStreetMap. Si has hecho varias contribuciones en el último año, tendrás mejor puntuación para procesar las fotos.
 
 Las ortofotos son de diferentes lugares de Colombia, y necesitamos de tu ayuda para realizar el procesamiento.
