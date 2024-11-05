@@ -80,7 +80,7 @@ Esta categorización puede cambiar de acuerdo a los vuelos que estén pendientes
 | 4	| Mapeador recurrente (menos de 35 días). | 4 | 16 | L  | 80K COP ~ 20 USD |
 | 5	| Mapeado comprometido (42 días o más).   | 5 | Ilimitado | XL | 100K COP ~ 25 USD |
 
-Los precios son en Pesos Colombianos, y se muestra la aproximación a dólares solo como referencia. Estos valores no tienen retención en la fuente.
+Los precios son en Pesos Colombianos, y se muestra la aproximación a dólares solo como referencia. Estos valores no incluyen retención en la fuente, por lo que pago final es menor.
 
 Cuando se alcanza la cantidad máxima de vuelos para un nivel de procesamiento dado, tendrás que contribuir más días en OpenStreetMap para poder subir de categoría. El nivel 5 es el máximo y no tiene esta restricción ya que en este nivel puedes procesar todos los vuelos que solicites.
 
