@@ -74,11 +74,13 @@ Esta categorización puede cambiar de acuerdo a los vuelos que estén pendientes
 
 | Nivel de procesamiento | Nivel de OSM requerido | Cantidad máxima de vuelos a procesar en paralelo que puede solicitar | Cantidad de vuelos a procesar permitidos en este nivel | Tipo de vuelo recomendado | Pago por vuelo |
 | - | --------------------------------------- | - | -- | --------------- | ------ |
-| 1	| Mapeador iniciado (menos 5 días).       | 1 | 1  | XS | 5 USD  |  5
-| 2	| Mapeador novato (menos de 15 días).	    | 2 | 4  | S  | 10 USD | 10
-| 3	| Mapeador casual (menos de 25 días).	    | 3 | 9  | M  | 15 USD | 15
-| 4	| Mapeador recurrente (menos de 35 días). | 4 | 16 | L  | 20 USD | 18
-| 5	| Mapeado comprometido (42 días o más).   | 5 | Ilimitado | XL | 25 USD | 20
+| 1	| Mapeador iniciado (menos 5 días).       | 1 | 1  | XS | 20K COP ~ 5 USD  |
+| 2	| Mapeador novato (menos de 15 días).	    | 2 | 4  | S  | 40K COP ~ 10 USD |
+| 3	| Mapeador casual (menos de 25 días).	    | 3 | 9  | M  | 60K COP ~ 15 USD |
+| 4	| Mapeador recurrente (menos de 35 días). | 4 | 16 | L  | 80K COP ~ 20 USD |
+| 5	| Mapeado comprometido (42 días o más).   | 5 | Ilimitado | XL | 100K COP ~ 25 USD |
+
+Los precios son en Pesos Colombianos, y se muestra la aproximación a dólares solo como referencia. Estos valores no tienen retención en la fuente.
 
 Cuando se alcanza la cantidad máxima de vuelos para un nivel de procesamiento dado, tendrás que contribuir más días en OpenStreetMap para poder subir de categoría. El nivel 5 es el máximo y no tiene esta restricción ya que en este nivel puedes procesar todos los vuelos que solicites.
 
